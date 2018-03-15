@@ -1,0 +1,76 @@
+id,name,description,category_id,color,make,size,price
+1,Kitten Heels_Item_1,Kitten Heels_Item_1,Kitten Heels,black,Leather,6,16
+2,Kitten Heels_Item_2,Kitten Heels_Item_2,Kitten Heels,brown,canvas,7,27
+3,Kitten Heels_Item_3,Kitten Heels_Item_3,Kitten Heels,black,pu,4,34
+4,Kitten Heels_Item_4,Kitten Heels_Item_4,Kitten Heels,red,Leather,8,48
+5,Kitten Heels_Item_5,Kitten Heels_Item_5,Kitten Heels,green,canvas,9,59
+6,Pumps_Item_6,Pumps_Item_6,Pumps,black,pu,6,66
+7,Pumps_Item_7,Pumps_Item_7,Pumps,brown,Leather,7,77
+8,Pumps_Item_8,Pumps_Item_8,Pumps,black,canvas,4,84
+9,Pumps_Item_9,Pumps_Item_9,Pumps,red,pu,8,98
+10,Pumps_Item_10,Pumps_Item_10,Pumps,green,Leather,9,109
+11,Stilettos_Item_11,Stilettos_Item_11,Stilettos,black,canvas,6,116
+12,Stilettos_Item_12,Stilettos_Item_12,Stilettos,brown,pu,7,127
+13,Stilettos_Item_13,Stilettos_Item_13,Stilettos,black,Leather,4,134
+14,Stilettos_Item_14,Stilettos_Item_14,Stilettos,red,canvas,8,148
+15,Stilettos_Item_15,Stilettos_Item_15,Stilettos,green,pu,9,159
+16,Ankle Strap Heels_Item_16,Ankle Strap Heels_Item_16,Ankle Strap Heels,black,Leather,6,166
+17,Ankle Strap Heels_Item_17,Ankle Strap Heels_Item_17,Ankle Strap Heels,brown,canvas,7,177
+18,Ankle Strap Heels_Item_18,Ankle Strap Heels_Item_18,Ankle Strap Heels,black,pu,4,184
+19,Ankle Strap Heels_Item_19,Ankle Strap Heels_Item_19,Ankle Strap Heels,red,Leather,8,198
+20,Ankle Strap Heels_Item_20,Ankle Strap Heels_Item_20,Ankle Strap Heels,green,canvas,9,209
+21,Wedge Heels_Item_21,Wedge Heels_Item_21,Wedge Heels,black,pu,6,216
+22,Wedge Heels_Item_22,Wedge Heels_Item_22,Wedge Heels,brown,Leather,7,227
+23,Wedge Heels_Item_23,Wedge Heels_Item_23,Wedge Heels,black,canvas,4,234
+24,Wedge Heels_Item_24,Wedge Heels_Item_24,Wedge Heels,red,pu,8,248
+25,Wedge Heels_Item_25,Wedge Heels_Item_25,Wedge Heels,green,Leather,9,259
+26,Wedge Sandals_Item_26,Wedge Sandals_Item_26,Wedge Sandals,black,canvas,6,266
+27,Wedge Sandals_Item_27,Wedge Sandals_Item_27,Wedge Sandals,brown,pu,7,277
+28,Wedge Sandals_Item_28,Wedge Sandals_Item_28,Wedge Sandals,black,Leather,4,284
+29,Wedge Sandals_Item_29,Wedge Sandals_Item_29,Wedge Sandals,red,canvas,8,298
+30,Wedge Sandals_Item_30,Wedge Sandals_Item_30,Wedge Sandals,green,pu,9,309
+31,Cone Heels_Item_31,Cone Heels_Item_31,Cone Heels,black,Leather,6,316
+32,Cone Heels_Item_32,Cone Heels_Item_32,Cone Heels,brown,canvas,7,327
+33,Cone Heels_Item_33,Cone Heels_Item_33,Cone Heels,black,pu,4,334
+34,Cone Heels_Item_34,Cone Heels_Item_34,Cone Heels,red,Leather,8,348
+35,Cone Heels_Item_35,Cone Heels_Item_35,Cone Heels,green,canvas,9,359
+36,Sling Back Heels_Item_36,Sling Back Heels_Item_36,Sling Back Heels,black,pu,6,366
+37,Sling Back Heels_Item_37,Sling Back Heels_Item_37,Sling Back Heels,brown,Leather,7,377
+38,Sling Back Heels_Item_38,Sling Back Heels_Item_38,Sling Back Heels,black,canvas,4,384
+39,Sling Back Heels_Item_39,Sling Back Heels_Item_39,Sling Back Heels,red,pu,8,398
+40,Sling Back Heels_Item_40,Sling Back Heels_Item_40,Sling Back Heels,green,Leather,9,409
+41,Platform Heels_Item_41,Platform Heels_Item_41,Platform Heels,black,canvas,6,416
+42,Platform Heels_Item_42,Platform Heels_Item_42,Platform Heels,brown,pu,7,427
+43,Platform Heels_Item_43,Platform Heels_Item_43,Platform Heels,black,Leather,4,434
+44,Platform Heels_Item_44,Platform Heels_Item_44,Platform Heels,red,canvas,8,448
+45,Platform Heels_Item_45,Platform Heels_Item_45,Platform Heels,green,pu,9,459
+46,High Heel Sandals_Item_46,High Heel Sandals_Item_46,High Heel Sandals,black,Leather,6,466
+47,High Heel Sandals_Item_47,High Heel Sandals_Item_47,High Heel Sandals,brown,canvas,7,477
+48,High Heel Sandals_Item_48,High Heel Sandals_Item_48,High Heel Sandals,black,pu,4,484
+49,High Heel Sandals_Item_49,High Heel Sandals_Item_49,High Heel Sandals,red,Leather,8,498
+50,High Heel Sandals_Item_50,High Heel Sandals_Item_50,High Heel Sandals,green,canvas,9,509
+51,Peep Toe Heels_Item_51,Peep Toe Heels_Item_51,Peep Toe Heels,black,pu,6,516
+52,Peep Toe Heels_Item_52,Peep Toe Heels_Item_52,Peep Toe Heels,brown,Leather,7,527
+53,Peep Toe Heels_Item_53,Peep Toe Heels_Item_53,Peep Toe Heels,black,canvas,4,534
+54,Peep Toe Heels_Item_54,Peep Toe Heels_Item_54,Peep Toe Heels,red,pu,8,548
+55,Peep Toe Heels_Item_55,Peep Toe Heels_Item_55,Peep Toe Heels,green,Leather,9,559
+56,Cork High Heels_Item_56,Cork High Heels_Item_56,Cork High Heels,black,canvas,6,566
+57,Cork High Heels_Item_57,Cork High Heels_Item_57,Cork High Heels,brown,pu,7,577
+58,Cork High Heels_Item_58,Cork High Heels_Item_58,Cork High Heels,black,Leather,4,584
+59,Cork High Heels_Item_59,Cork High Heels_Item_59,Cork High Heels,red,canvas,8,598
+60,Cork High Heels_Item_60,Cork High Heels_Item_60,Cork High Heels,green,pu,9,609
+61,High Heeled Boots_Item_61,High Heeled Boots_Item_61,High Heeled Boots,black,Leather,6,616
+62,High Heeled Boots_Item_62,High Heeled Boots_Item_62,High Heeled Boots,brown,canvas,7,627
+63,High Heeled Boots_Item_63,High Heeled Boots_Item_63,High Heeled Boots,black,pu,4,634
+64,High Heeled Boots_Item_64,High Heeled Boots_Item_64,High Heeled Boots,red,Leather,8,648
+65,High Heeled Boots_Item_65,High Heeled Boots_Item_65,High Heeled Boots,green,canvas,9,659
+66,Ankle Booties_Item_66,Ankle Booties_Item_66,Ankle Booties,black,pu,6,666
+67,Ankle Booties_Item_67,Ankle Booties_Item_67,Ankle Booties,brown,Leather,7,677
+68,Ankle Booties_Item_68,Ankle Booties_Item_68,Ankle Booties,black,canvas,4,684
+69,Ankle Booties_Item_69,Ankle Booties_Item_69,Ankle Booties,red,pu,8,698
+70,Ankle Booties_Item_70,Ankle Booties_Item_70,Ankle Booties,green,Leather,9,709
+71,Spool Heels_Item_71,Spool Heels_Item_71,Spool Heels,black,canvas,6,716
+72,Spool Heels_Item_72,Spool Heels_Item_72,Spool Heels,brown,pu,7,727
+73,Spool Heels_Item_73,Spool Heels_Item_73,Spool Heels,black,Leather,4,734
+74,Spool Heels_Item_74,Spool Heels_Item_74,Spool Heels,red,canvas,8,748
+75,Spool Heels_Item_75,Spool Heels_Item_75,Spool Heels,green,pu,9,759
